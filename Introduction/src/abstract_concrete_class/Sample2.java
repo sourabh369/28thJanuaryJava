@@ -1,0 +1,16 @@
+package abstract_concrete_class;
+
+public class Sample2 extends Sample1
+{
+
+	public void m3() 
+	{
+	    System.out.println("Running method m3 in concrete");	
+	}
+	
+	public void m4() 
+	{
+	    System.out.println("Running method m4 in concrete");	
+	}
+	
+}
