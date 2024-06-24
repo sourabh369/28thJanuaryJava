@@ -7,7 +7,7 @@ public class ReverseString
 	{
 	
 		String s1="My name is Sourabh";
-		String arr[] = s1.split(" ");
+		String arr[]= s1.split(" ");
 		
 		for(int i=0;i<=arr.length-1;i++)
 		{
