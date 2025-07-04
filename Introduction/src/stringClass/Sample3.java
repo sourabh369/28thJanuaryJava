@@ -8,8 +8,9 @@ public class Sample3
 	
 		String s1="abc";
 		s1="";
+		String s2="Sourabh";
 		System.out.println(s1);
-//		System.out.println(s1==s2);
+		System.out.println(s1==s2);
 		
 	}
 	
