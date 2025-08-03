@@ -6,7 +6,7 @@ public class Arraysorting
 	public static void main(String[] args) 
 	{
 	
-		int arr[] = {10 , 90 , 30 , 40 , 500 , 60};
+		int arr[] = {10 , 90 , 30 , 40 , 500 , 60,90};
 		int temp;
 		
 		for(int i=0;i<=arr.length-1;i++)
